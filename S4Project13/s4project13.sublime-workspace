@@ -1,0 +1,399 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"marks_3"
+			],
+			[
+				"mark",
+				"marks_1"
+			],
+			[
+				"sam",
+				"sameArea"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "input.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "output.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/C++14s.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++14.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++14.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++14.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++14s.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++14s.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++14s.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/PP/[FreeCourseSite.com] Udemy - PHP for Beginners - Become a PHP Master - CMS Project/000/htdocs/cms/includes/db.php",
+		"/D/PP/[FreeCourseSite.com] Udemy - PHP for Beginners - Become a PHP Master - CMS Project/000/htdocs/entire cms/cms/includes/db.php",
+		"/C/Users/shiva/CodingClubWebsite/index.js",
+		"/C/Users/shiva/Downloads/B19CS037_Tutorial6.cpp",
+		"/C/Users/shiva/Documents/S4Project13/Tutorial6_B19CS013.cpp",
+		"/C/Users/shiva/Documents/S4Project13/Assignment5_B19CS013.cpp",
+		"/C/Users/shiva/Documents/S4Project13/13-overloadingBinaryPlus.cpp",
+		"/C/Users/shiva/Documents/S4Project13/8-friendFunction2.cpp",
+		"/C/Users/shiva/Documents/S4Project13/Tutorial6_.cpp",
+		"/C/Users/shiva/Documents/S4Project13/Tutorial5_B19CS013.cpp",
+		"/C/Users/shiva/Documents/S4Project13/Tutorial4_.cpp",
+		"/C/Users/shiva/Documents/S4Project13/Tutorial1_B19CS013.cpp",
+		"/C/Users/shiva/Documents/S4Project13/assignment3.cpp",
+		"/C/Users/shiva/Documents/S4Project13/Assignment3_B19CS013.cpp",
+		"/C/Users/shiva/Documents/S4Project13/assignment2.cpp",
+		"/C/Users/shiva/Documents/S4Project13/Assignment1_B19CS013.cpp",
+		"/C/Users/shiva/Documents/S4Project13/assignment1.cpp",
+		"/C/Users/shiva/Documents/S4Project13/mergesort.cpp",
+		"/C/Users/shiva/Documents/cp/output.txt",
+		"/C/Users/shiva/Documents/cp/input.txt",
+		"/C/Users/shiva/Documents/cp/source.cpp",
+		"/C/Users/shiva/Documents/cp/program.cpp",
+		"/C/Users/shiva/Documents/source.cpp",
+		"/C/Users/shiva/AppData/Roaming/Sublime Text 3/Packages/User/C++14s.sublime-build",
+		"/C/Users/shiva/Documents/sample.cpp",
+		"/C/Users/shiva/AppData/Roaming/Sublime Text 3/Packages/User/C++14.sublime-build"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Sample",
+			"ArrayClass",
+			"Date",
+			"d",
+			"y",
+			"m",
+			"ob1",
+			"Sample",
+			"s",
+			"ob2",
+			"ob1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Matrix",
+			"Demo",
+			"Data",
+			"day",
+			"year",
+			"month",
+			"d",
+			"Date",
+			"String",
+			"str",
+			"r2",
+			"r1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "input.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "output.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.739385065886,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.372221009415,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 119.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/C++14.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
